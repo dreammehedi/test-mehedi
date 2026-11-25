@@ -1,6 +1,6 @@
 {
   "username": "dreammehedi",
-  "fetched": "2026-11-24",
+  "fetched": "2026-11-25",
   "days": [
     {
       "date": "2025-11-23",
@@ -1834,13 +1834,18 @@
     },
     {
       "date": "2026-11-24",
-      "level": 0,
-      "count": 0
+      "level": 1,
+      "count": 2
+    },
+    {
+      "date": "2026-11-25",
+      "level": 1,
+      "count": 2
     }
   ],
-  "total": 850,
-  "current_streak": 80,
-  "longest_streak": 80,
+  "total": 854,
+  "current_streak": 82,
+  "longest_streak": 82,
   "best_day": {
     "date": "2026-06-09",
     "level": 4,
